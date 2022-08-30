@@ -54,7 +54,7 @@
     "SUPPORT_CHAT": {
       "description": "Support Group Link of your bot, Must start with https://t.me/",
       "required": false,
-      "value": "https://t.me/MagicalDuniya"
+      "value": "https://t.me/FriendsHaveli"
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link of your bot, Your link must start with https://t.me/",
