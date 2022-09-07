@@ -24,4 +24,4 @@ SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DarkestMarket666")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", " https://t.me/DarkestXMarket666")
 
 STRING_SESSION = getenv("STRING_SESSION", None)
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1574818111").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "1621219619").split()))
