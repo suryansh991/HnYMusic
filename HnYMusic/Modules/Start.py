@@ -83,7 +83,7 @@ async def gstart(_, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://github.com/HNYROBO/HnYMusic"
+                    text="💡 ɢɪᴛ ʀᴇᴘᴏ", url="https://t.me/DarkestXmarket666"
                 ),
             ],
         ]
